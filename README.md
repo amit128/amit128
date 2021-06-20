@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @amit128
-- 👀 I’m working on react js
-- 🌱 I’m currently learning MERN
--
 - 📫 How to reach me ...
 
 <!---
